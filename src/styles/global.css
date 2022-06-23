@@ -3,10 +3,5 @@
 @tailwind utilities;
 
 body {
-    @apply bg-zinc-900 text-zinc-100
+    @apply bg-zinc-900 text-zinc-100;
 }
-
-//CMS - Content Management System
-
-//Painel de ADMIN - Headless CMS(dados fornecidos com API REST ou GraphQL
-//PArte do front-end(temas) - React consome a API do CMS
